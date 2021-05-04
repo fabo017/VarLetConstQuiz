@@ -1,0 +1,16 @@
+What is the difference between var and let?
+
+    with 'var' you can reassign and redeclare. with 'let' you cannot redeclare. 'let' is block scoped
+
+What is the difference between var and const?
+
+    with 'var' you can reassign and redeclare. with 'const' you cannot reassign or redeclare. 'const' is block scoped
+
+What is the difference between let and const?
+
+    with 'let' you can reassign but not redeclare. with 'const' you cannot reassign or redeclare
+
+What is hoisting?
+
+    It’s the way that JS sort of creates its logic for variables. some variables can be 'hoisted' 
+    or sort of like set upon a higher shelf where is it read first or put to the side in a way
